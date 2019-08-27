@@ -1,4 +1,8 @@
 
+*.sql
+Theme Park/.vs/Theme Park/v14/.ssms_suo
+
+###################
 # compiled source #
 ###################
 *.com
@@ -73,3 +77,5 @@ _[Ss]cripts
 *.nupkg
 *.ncrunchsolution
 *.dot[Cc]over
+
+.vs
