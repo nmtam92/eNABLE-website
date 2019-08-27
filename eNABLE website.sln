@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29215.179
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "eNABLE website", "eNABLE website\eNABLE website.csproj", "{37F0C209-5557-45A8-99D1-F9D23874FDB8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{37F0C209-5557-45A8-99D1-F9D23874FDB8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37F0C209-5557-45A8-99D1-F9D23874FDB8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37F0C209-5557-45A8-99D1-F9D23874FDB8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37F0C209-5557-45A8-99D1-F9D23874FDB8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E821BAD9-70F0-45C8-92DE-3EBFFF5CD116}
+	EndGlobalSection
+EndGlobal

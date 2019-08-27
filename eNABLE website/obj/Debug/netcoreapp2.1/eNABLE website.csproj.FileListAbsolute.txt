@@ -1,0 +1,34 @@
+C:\Users\18324\source\repos\eNABLE website\eNABLE website\bin\Debug\netcoreapp2.1\eNABLE website.deps.json
+C:\Users\18324\source\repos\eNABLE website\eNABLE website\bin\Debug\netcoreapp2.1\eNABLE website.runtimeconfig.json
+C:\Users\18324\source\repos\eNABLE website\eNABLE website\bin\Debug\netcoreapp2.1\eNABLE website.runtimeconfig.dev.json
+C:\Users\18324\source\repos\eNABLE website\eNABLE website\bin\Debug\netcoreapp2.1\eNABLE website.dll
+C:\Users\18324\source\repos\eNABLE website\eNABLE website\bin\Debug\netcoreapp2.1\eNABLE website.pdb
+C:\Users\18324\source\repos\eNABLE website\eNABLE website\bin\Debug\netcoreapp2.1\eNABLE website.Views.dll
+C:\Users\18324\source\repos\eNABLE website\eNABLE website\bin\Debug\netcoreapp2.1\eNABLE website.Views.pdb
+C:\Users\18324\source\repos\eNABLE website\eNABLE website\obj\Debug\netcoreapp2.1\eNABLE website.csprojAssemblyReference.cache
+C:\Users\18324\source\repos\eNABLE website\eNABLE website\obj\Debug\netcoreapp2.1\eNABLE website.csproj.CoreCompileInputs.cache
+C:\Users\18324\source\repos\eNABLE website\eNABLE website\obj\Debug\netcoreapp2.1\eNABLE website.RazorAssemblyInfo.cache
+C:\Users\18324\source\repos\eNABLE website\eNABLE website\obj\Debug\netcoreapp2.1\eNABLE website.RazorAssemblyInfo.cs
+C:\Users\18324\source\repos\eNABLE website\eNABLE website\obj\Debug\netcoreapp2.1\eNABLE website.AssemblyInfoInputs.cache
+C:\Users\18324\source\repos\eNABLE website\eNABLE website\obj\Debug\netcoreapp2.1\eNABLE website.AssemblyInfo.cs
+C:\Users\18324\source\repos\eNABLE website\eNABLE website\obj\Debug\netcoreapp2.1\eNABLE website.TagHelpers.input.cache
+C:\Users\18324\source\repos\eNABLE website\eNABLE website\obj\Debug\netcoreapp2.1\eNABLE website.TagHelpers.output.cache
+C:\Users\18324\source\repos\eNABLE website\eNABLE website\obj\Debug\netcoreapp2.1\eNABLE website.RazorCoreGenerate.cache
+C:\Users\18324\source\repos\eNABLE website\eNABLE website\obj\Debug\netcoreapp2.1\Razor\Pages\About.g.cshtml.cs
+C:\Users\18324\source\repos\eNABLE website\eNABLE website\obj\Debug\netcoreapp2.1\Razor\Pages\Contact.g.cshtml.cs
+C:\Users\18324\source\repos\eNABLE website\eNABLE website\obj\Debug\netcoreapp2.1\Razor\Pages\Error.g.cshtml.cs
+C:\Users\18324\source\repos\eNABLE website\eNABLE website\obj\Debug\netcoreapp2.1\Razor\Pages\Index.g.cshtml.cs
+C:\Users\18324\source\repos\eNABLE website\eNABLE website\obj\Debug\netcoreapp2.1\Razor\Pages\Privacy.g.cshtml.cs
+C:\Users\18324\source\repos\eNABLE website\eNABLE website\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\18324\source\repos\eNABLE website\eNABLE website\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_Layout.g.cshtml.cs
+C:\Users\18324\source\repos\eNABLE website\eNABLE website\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\18324\source\repos\eNABLE website\eNABLE website\obj\Debug\netcoreapp2.1\Razor\Pages\_ViewImports.g.cshtml.cs
+C:\Users\18324\source\repos\eNABLE website\eNABLE website\obj\Debug\netcoreapp2.1\Razor\Pages\_ViewStart.g.cshtml.cs
+C:\Users\18324\source\repos\eNABLE website\eNABLE website\obj\Debug\netcoreapp2.1\eNABLE website.RazorTargetAssemblyInfo.cache
+C:\Users\18324\source\repos\eNABLE website\eNABLE website\obj\Debug\netcoreapp2.1\eNABLE website.RazorTargetAssemblyInfo.cs
+C:\Users\18324\source\repos\eNABLE website\eNABLE website\obj\Debug\netcoreapp2.1\eNABLE website.Views.pdb
+C:\Users\18324\source\repos\eNABLE website\eNABLE website\obj\Debug\netcoreapp2.1\eNABLE website.dll
+C:\Users\18324\source\repos\eNABLE website\eNABLE website\obj\Debug\netcoreapp2.1\eNABLE website.pdb
+C:\Users\18324\source\repos\eNABLE website\eNABLE website\obj\Debug\netcoreapp2.1\eNABLE website.csproj.CopyComplete
+C:\Users\18324\source\repos\eNABLE website\eNABLE website\obj\Debug\netcoreapp2.1\Razor\Pages\Events.g.cshtml.cs
+C:\Users\18324\source\repos\eNABLE website\eNABLE website\obj\Debug\netcoreapp2.1\Razor\Pages\Funding.g.cshtml.cs
